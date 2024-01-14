@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.ajinkya.projectone": "https://github.com/crazyboy37/ProjectOneSource.git?path=Assets/Projects#v2",
+    "com.ajinkya.projectone": "https://github.com/crazyboy37/ProjectOneSource.git?path=Assets/Projects#v3.0.0",
     "com.ajinkya.projecttwo": "https://github.com/crazyboy37/ProjectTwoSource.git?path=Assets/Projects",
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.feature.cinematic": "1.0.0",
