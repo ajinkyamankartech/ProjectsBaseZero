@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.ajinkya.projectone": "https://github.com/crazyboy37/ProjectOnePackage.git",
-    "com.ajinkya.projecttwo": "https://github.com/crazyboy37/ProjectTwoPackage.git",
+    "com.ajinkya.projectone": "https://github.com/crazyboy37/ProjectOneSource.git?path=Assets/Projects",
+    "com.ajinkya.projecttwo": "https://github.com/crazyboy37/ProjectTwoSource.git?path=Assets/Projects",
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.feature.cinematic": "1.0.0",
     "com.unity.ide.rider": "3.0.27",

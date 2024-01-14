@@ -1,18 +1,18 @@
 {
   "dependencies": {
     "com.ajinkya.projectone": {
-      "version": "https://github.com/crazyboy37/ProjectOnePackage.git",
+      "version": "https://github.com/crazyboy37/ProjectOneSource.git?path=Assets/Projects",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "bd0bec20747eddc26790282362495c64a7b33d18"
+      "hash": "b1da8793d7ea1873df5e61e3e654c08ff2608968"
     },
     "com.ajinkya.projecttwo": {
-      "version": "https://github.com/crazyboy37/ProjectTwoPackage.git",
+      "version": "https://github.com/crazyboy37/ProjectTwoSource.git?path=Assets/Projects",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "803c79109bb441345e832a6f03887282f27abc9d"
+      "hash": "30e19a43461da0a632fea68784cc97fad050a93e"
     },
     "com.autodesk.fbx": {
       "version": "4.2.1",
